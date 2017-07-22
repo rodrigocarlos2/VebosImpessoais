@@ -1,4 +1,4 @@
-<strong><h2 align="justify"> Vebos Impessoais </h2></strong>
+<strong><h2 align="center"> Vebos Impessoais </h2></strong>
 
 <br>
 <br>
